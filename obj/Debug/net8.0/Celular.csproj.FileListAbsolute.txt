@@ -1,0 +1,15 @@
+C:\Users\Davi\git_projects\Celular\bin\Debug\net8.0\Celular.exe
+C:\Users\Davi\git_projects\Celular\bin\Debug\net8.0\Celular.deps.json
+C:\Users\Davi\git_projects\Celular\bin\Debug\net8.0\Celular.runtimeconfig.json
+C:\Users\Davi\git_projects\Celular\bin\Debug\net8.0\Celular.dll
+C:\Users\Davi\git_projects\Celular\bin\Debug\net8.0\Celular.pdb
+C:\Users\Davi\git_projects\Celular\obj\Debug\net8.0\Celular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davi\git_projects\Celular\obj\Debug\net8.0\Celular.AssemblyInfoInputs.cache
+C:\Users\Davi\git_projects\Celular\obj\Debug\net8.0\Celular.AssemblyInfo.cs
+C:\Users\Davi\git_projects\Celular\obj\Debug\net8.0\Celular.csproj.CoreCompileInputs.cache
+C:\Users\Davi\git_projects\Celular\obj\Debug\net8.0\Celular.sourcelink.json
+C:\Users\Davi\git_projects\Celular\obj\Debug\net8.0\Celular.dll
+C:\Users\Davi\git_projects\Celular\obj\Debug\net8.0\refint\Celular.dll
+C:\Users\Davi\git_projects\Celular\obj\Debug\net8.0\Celular.pdb
+C:\Users\Davi\git_projects\Celular\obj\Debug\net8.0\Celular.genruntimeconfig.cache
+C:\Users\Davi\git_projects\Celular\obj\Debug\net8.0\ref\Celular.dll
